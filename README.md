@@ -229,10 +229,5 @@ Kept honest so nobody goes looking for these:
 
 ---
 
-## Working with Lovable
-
-This project was built with [Lovable](https://lovable.dev) and stays in sync with it.
-
-Continue in the [Lovable editor](https://lovable.dev/projects/b1743384-3aa7-490c-b921-75bf9dfa721a). Changes made there are committed straight to this repository, and commits you push to `main` sync back into Lovable.
 
 > **Note:** avoid rewriting published git history — force pushing, or rebasing, amending, or squashing already-pushed commits — as this rewrites history on Lovable's side and can lose project history.
